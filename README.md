@@ -41,7 +41,8 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 <a href="https://github.com/rasielote/MSSE-640/blob/main/Assignment1-Algaze.md">Assignment 1 - Algaze</a>  
 <a href="https://github.com/rasielote/MSSE-640/blob/main/Assignment2-Algaze.md">Assignment 2 - Algaze</a>  
 <a href="https://github.com/rasielote/MSSE-640/blob/main/Assignment3-Algaze.md">Assignment 3 - Algaze</a>  
-<a href="https://github.com/rasielote/MSSE-640/blob/main/Assignment4-Algaze.md">Assignment 4 - Algaze</a>
+<a href="https://github.com/rasielote/MSSE-640/blob/main/Assignment4-Algaze.md">Assignment 4 - Algaze</a>  
+<a href="https://github.com/rasielote/MSSE-640/blob/main/Assignment5-Algaze.md">Assignment 5 - Algaze</a>  
 
 ## Contact
 For any questions or suggestions, please contact ralgazeperdomo@regis.edu
